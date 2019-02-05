@@ -100,4 +100,8 @@ https://github.com/cmaclell/Basic-Tweet-Sentiment-Analyzer
 ## Changes
 - 2013-10-13 Adding :-) to slang
 
+# Additional Changes
+- updated the emojis and en_words json files
+Emojis are taken from the http://kt.ijs.si/data/Emoji_sentiment_ranking/index.html
+English words are taken from the version 5 of https://sentic.net/
 
